@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="xf_resize_accel.cpp" path="D:\Projekte\Bachelor\AXI_VideoCrop_3\src\xf_resize_accel.cpp"/>
+  </source>
+  <testbench>
+    <originFiles name="xf_resize_tb.cpp" path="D:\Projekte\Bachelor\AXI_VideoCrop_3\src\xf_resize_tb.cpp"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>
